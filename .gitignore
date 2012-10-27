@@ -1,0 +1,9 @@
+project-src/project/project
+project-src/project/target
+project-src/target
+project-src/tmp
+.history
+dist
+project-src/.settings
+project-src/.target
+project-src/.classpath
